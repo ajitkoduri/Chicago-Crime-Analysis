@@ -1,4 +1,5 @@
 # Chicago-Crime-Analysis
+Required Packages: pandas, numpy, scikit-learn, itertools, IPython.display
 Ajit Koduri and Zane Olds looking at the Chicago Crime Data provided by the CPD CLEAR's system as seen on Kaggle. Powerpoints contain pictures arising from data analysis, .ipynb files are code we have made to look into the the criminal occurrences in Chicago with Python using Jupyter Notebooks.
 
 Chicago Crime Data.ipynb contains initial analysis of all crime between 2005 and February 2017, which has nearly 12 million instances. We looked into crime in Chicago through the course of time, crime by location, followed by crime by arrest rates. We used a Gaussian Naive Bayes model to create a model to determine whether an arrest will be made, which is 68.3% accurate. We list out the relevant graphics in ChicagoCrimeData.pptx.
