@@ -1,7 +1,7 @@
 # Chicago-Crime-Analysis
 Required Packages: 
 
-Python: pandas, numpy, scikit-learn, itertools, IPython.display
+Python: pandas, numpy, scikit-learn, itertools, IPython.display, seaborn
 
 R: tidyverse, ggmap, zipcode
 
